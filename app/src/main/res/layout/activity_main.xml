@@ -11,7 +11,7 @@
         android:id="@+id/dogglers"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="DOGGELERS"
+        android:text="DOGGLERS"
         android:textSize="32dp"
         android:padding="24dp"
         android:textColor="@color/white"
